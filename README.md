@@ -19,3 +19,7 @@
     * [PORTERS 連携エラーを解消したい](https://github.com/e2info/hrdeli-docs/manual/update_error.md#cancellation)
 
 -->
+
+-----
+
+{% include footer.md %}
