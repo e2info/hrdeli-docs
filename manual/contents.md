@@ -1,4 +1,8 @@
-# フリーページの作成
+---
+layout: default
+title: HR Deli ヘルプ
+---
+## フリーページの作成
 フリーページは、お役立ちコンテンツなど関連カテゴリを紐づけて作成します。
 まずはカテゴリ作成から始めましょう。
 
@@ -71,6 +75,6 @@
 <!-- 画像-->
 
 
-[戻る](https://e2info.github.io/hrdeli-docs/)
+[← 戻る](https://e2info.github.io/hrdeli-docs/)
 
 {% include footer.md %}

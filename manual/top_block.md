@@ -1,4 +1,8 @@
-# トップページブロックの作成
+---
+layout: default
+title: HR Deli ヘルプ
+---
+## トップページブロックの作成
 トップページでは、お知らせや求人特集などのコンテンツをブロック単位で管理しています。
 <!-- 画像-->
 
@@ -39,6 +43,6 @@
 <!-- 画像-->
 
 
-[戻る](https://e2info.github.io/hrdeli-docs/)
+[← 戻る](https://e2info.github.io/hrdeli-docs/)
 
 {% include footer.md %}

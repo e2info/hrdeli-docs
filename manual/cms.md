@@ -41,7 +41,7 @@ No. | テンプレート名 | 表示イメージ
 14 | Q＆A | ![Q＆Aのイメージ](https://e2info.github.io/hrdeli-docs/manual/img/template_14.png)
 
 
-[戻る](https://e2info.github.io/hrdeli-docs/)
+[← 戻る](https://e2info.github.io/hrdeli-docs/)
 
 
 {% include footer.md %}

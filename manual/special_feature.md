@@ -1,4 +1,8 @@
-# 求人特集の作成
+---
+layout: default
+title: HR Deli ヘルプ
+---
+## 求人特集の作成
 
 ## 新規作成
 
@@ -65,6 +69,6 @@
 <!-- 画像-->
 
 
-[戻る](https://e2info.github.io/hrdeli-docs/)
+[← 戻る](https://e2info.github.io/hrdeli-docs/)
 
 {% include footer.md %}

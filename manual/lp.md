@@ -1,4 +1,8 @@
-# LP経由会員登録フォーム
+---
+layout: default
+title: HR Deli ヘルプ
+---
+## LP経由会員登録フォーム
 
 ## 作成手順
 
@@ -60,6 +64,6 @@
 <!-- 画像--> 
 
 
-[戻る](https://e2info.github.io/hrdeli-docs/)
+[← 戻る](https://e2info.github.io/hrdeli-docs/)
 
 {% include footer.md %}
