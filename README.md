@@ -22,4 +22,4 @@ title: HR Deli
     * [PORTERS 連携エラーとは？](https://e2info.github.io/hrdeli-docs/manual/update_error.html#description)
     * [PORTERS 連携エラーを解消したい](https://e2info.github.io/hrdeli-docs/manual/update_error.html#cancellation)-->
 
-{% include footer.html %}
+{% include footer.md %}
