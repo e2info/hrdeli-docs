@@ -40,3 +40,5 @@
 
 
 [戻る](https://e2info.github.io/hrdeli-docs/)
+
+{% include footer.md %}

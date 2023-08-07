@@ -1,9 +1,9 @@
-# HR Deliヘルプページ
+# HR Deli ヘルプ
 <!--## 導入までに関するご質問
 * 独自ドメイン
 -->
 
-## HR Deli 管理画面
+## 管理画面の操作
 * [求人特集の作成](https://e2info.github.io/hrdeli-docs/manual/special_feature.html)
 * [LPページの作成](https://e2info.github.io/hrdeli-docs/manual/lp.html)
 * [フリーページの作成](https://e2info.github.io/hrdeli-docs/manual/contents.html)
