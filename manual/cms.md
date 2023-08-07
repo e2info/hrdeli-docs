@@ -1,3 +1,9 @@
+---
+layout: default
+title: CMS機能（テンプレート）について
+
+---
+
 # CMS機能（テンプレート）について
 本文のHTML
 
@@ -17,7 +23,7 @@
 
 No. | テンプレート名 | 表示イメージ
 ------------- | ------------- | ------------- |  
-1 | 見出し1 | https://e2info.github.io/hrdeli-docs/manual/img/template_01.png
+1 | 見出し1 | ![見出し1のイメージ](https://e2info.github.io/hrdeli-docs/manual/img/template_01.png)
 2 | 見出し2 | //画像
 3 | リスト | //画像
 4 | テキスト（左寄せ） | //画像
