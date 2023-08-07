@@ -1,5 +1,9 @@
-# ヘルプ
-<!--### 導入までに関するご質問
+---
+layout: default
+title: HR Deli ヘルプ
+---
+
+<!--## 導入までに関するご質問
 * 独自ドメイン
 -->
 
@@ -17,3 +21,5 @@
     * [PORTERS 連携エラーとは？](https://e2info.github.io/hrdeli-docs/manual/update_error.html#description)
     * [PORTERS 連携エラーを解消したい](https://e2info.github.io/hrdeli-docs/manual/update_error.html#cancellation)-->
 
+
+{% include footer.md %}
