@@ -14,13 +14,13 @@ No. | 設定内容 | 管理画面URL
 2 | サイト情報の設定<br>・サービス名<br>・サイト説明の設定<br>・タグの設定<br>・送信元メールアドレスの設定 など | ｛ドメイン名｝/admin/company/edit
 3 | サイトで使用する画像の設定<br>・トップ画像<br>・ロゴ画像<br>・Noimage画像など | ｛ドメイン名｝/admin/design/site_colors/edit
 4 | 掲載求人の表示設定<br>・求人の掲載条件<br>・求人項目の設定<br>・検索条件の設定など | ｛ドメイン名｝/admin/job ほか
-5 | フォーム設定<br>・会員登録<br>・求人応募<br>・会員登録時の認証設定 | ｛ドメイン名｝admin/entry_define<br>｛ドメイン名｝/admin/certification
+5 | フォーム設定<br>・会員登録<br>・求人応募<br>・LP経由会員登録 (フォーム部分のみ)<br>・会員登録時の認証設定 | ｛ドメイン名｝admin/entry_define<br>｛ドメイン名｝/admin/certification
 6 | ヘッダ・フッターの設定 | ｛ドメイン名｝/admin/menu/edit
 7 | マイページの設定<br>・表示メニューの設定<br>・求職者側で変更可能な項目の設定<br>・退会機能の設定 | ｛ドメイン名｝/admin/mypage
 8 | トップページブロックの設定<br>・デフォルトブロックの公開設定<br>・バナー画像の設置 | ｛ドメイン名｝/admin/block
 9 | リダイレクト設定 | ｛ドメイン名｝/admin/redirect
 10 | お問い合わせ種別の設定 | ｛ドメイン名｝/admin/contact_type
-11 | サイトで使用する画像の設定<br>・トップ画像<br>・ロゴ画像<br>・Noimage画像など |  | ｛ドメイン名｝/admin/company/edit
+11 | サイトで使用する画像の設定<br>・トップ画像<br>・ロゴ画像<br>・Noimage画像など | ｛ドメイン名｝/admin/company/edit
 
 ### 補足：デモサイト上のダミーコンテンツについて
 デモサイトで表示される以下の内容はダミーコンテンツとなります。
