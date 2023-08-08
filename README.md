@@ -1,6 +1,5 @@
 # HR Deli ヘルプ
 
---
 ## HR Deli導入までの案内
 * [初期設定の対象範囲について](https://e2info.github.io/hrdeli-docs/introduction/initialization.html)
 <!--* [独自ドメインの設定について](https://e2info.github.io/hrdeli-docs/manual/special_feature.html)-->
@@ -23,5 +22,6 @@
     * [PORTERS 連携エラーとは？](https://e2info.github.io/hrdeli-docs/manual/update_error.html#description)
     * [PORTERS 連携エラーを解消したい](https://e2info.github.io/hrdeli-docs/manual/update_error.html#cancellation)-->
 
+<br>
 
 {% include footer.md %}
