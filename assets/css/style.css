@@ -2,9 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-.page-header>.project-tagline {
-  display:none;
-}
-.page-header>a.btn {
-  display:none;
+
+// Hide “This site is open source. Improve this page.”
+.footer {
+  display: none;
 }
