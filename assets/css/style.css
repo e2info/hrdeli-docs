@@ -2,8 +2,5 @@
 ---
 
 @import "{{ site.theme }}";
+@import "main";
 
-// Hide “This site is open source. Improve this page.”
-.footer {
-  display: none;
-}
