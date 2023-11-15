@@ -1,6 +1,4 @@
----
-title: HR Deli ヘルプ
----
+# HR Deli ヘルプ
 
 ## HR Deli導入までの案内
 * [初期設定の対象範囲について](https://e2info.github.io/hrdeli-docs/introduction/initialization.html)
