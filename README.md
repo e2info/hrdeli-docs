@@ -1,10 +1,10 @@
-# HR Deli ヘルプ
+---
+title: HR Deli ヘルプ
+---
 
 ## HR Deli導入までの案内
 * [初期設定の対象範囲について](https://e2info.github.io/hrdeli-docs/introduction/initialization.html)
 <!--* [独自ドメインの設定について](https://e2info.github.io/hrdeli-docs/manual/special_feature.html)-->
-
-<br>
 
 ## 管理画面の操作ガイド
 求人設定
@@ -26,11 +26,9 @@
     * [PORTERS 連携エラーとは？](https://e2info.github.io/hrdeli-docs/manual/update_error.html#description)
     * [PORTERS 連携エラーを解消したい](https://e2info.github.io/hrdeli-docs/manual/update_error.html#cancellation)-->
 
-<br>
-
 ## クラウド版 リリースノート
-* [2023年10月19日【機能更新】 管理画面メニューにヘルプページへのリンクを追加しました](https://e2info.github.io/hrdeli-docs/release-notes/20231019)
-* [2023年9月27日【改善】求職者画面でYouTubeが表示可能になりました](https://e2info.github.io/hrdeli-docs/release-notes/20230927)
+* [2023/10/19【機能更新】管理画面メニューにヘルプページへのリンクを追加しました](https://e2info.github.io/hrdeli-docs/release-notes/20231019)
+* [2023/09/27【改善】求職者画面でYouTubeが表示可能になりました](https://e2info.github.io/hrdeli-docs/release-notes/20230927)
 
 <!--過去のリリース情報は[こちら]()をご確認ください。-->
 
