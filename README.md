@@ -25,10 +25,9 @@
     * [PORTERS 連携エラーを解消したい](https://e2info.github.io/hrdeli-docs/manual/update_error.html#cancellation)-->
 
 ## クラウド版 リリースノート
-* [2023/10/19【機能更新】管理画面メニューにヘルプページへのリンクを追加しました](https://e2info.github.io/hrdeli-docs/release-notes/20231019)
-* [2023/09/27【改善】求職者画面でYouTubeが表示可能になりました](https://e2info.github.io/hrdeli-docs/release-notes/20230927)
+* [2023/11/28【事前お知らせ】求人情報（JobPosting）の構造化データを出力仕様に変更があります](https://e2info.github.io/hrdeli-docs/release-notes/20231128_01)
 
-<!--過去のリリース情報は[こちら]()をご確認ください。-->
+過去のリリース情報は[こちら](https://e2info.github.io/hrdeli-docs/release-notes/archive)をご確認ください。
 
 ## お問い合わせ
 操作などご質問ございましたら、以下サポートデスク宛てにメールお願いいたします。<br>
