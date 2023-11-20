@@ -25,7 +25,9 @@
     * [PORTERS 連携エラーを解消したい](https://e2info.github.io/hrdeli-docs/manual/update_error.html#cancellation)-->
 
 ## クラウド版 リリースノート
+* [2023/11/28【事前お知らせ】求職者が退会した際、管理者にメールが届く機能を追加します](https://e2info.github.io/hrdeli-docs/release-notes/20231128_02)
 * [2023/11/28【事前お知らせ】求人情報（JobPosting）の構造化データを出力仕様に変更があります](https://e2info.github.io/hrdeli-docs/release-notes/20231128_01)
+* [2023/11/28【事前お知らせ】システムメンテナンスのお知らせ](https://e2info.github.io/hrdeli-docs/release-notes/20231128_00)
 
 過去のリリース情報は[こちら](https://e2info.github.io/hrdeli-docs/release-notes/archive)をご確認ください。
 
