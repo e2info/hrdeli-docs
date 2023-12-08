@@ -1,6 +1,7 @@
 ---
 title: 応募履歴設定
 ---
+## 概要
 マイページの応募履歴には、PORTERS上で管理している求職者の選考プロセスを一覧で表示します。<br>
 PORTERS上の選考プロセスを表示することによって、HR Deliの求人応募を使用せずにお電話やメールで応募が決まった選考プロセスも応募履歴として表示できます。<br>
 
@@ -14,7 +15,7 @@ PORTERS上の選考プロセスを表示することによって、HR Deliの求
 ![応募状況](https://e2info.github.io/hrdeli-docs/manual/img/mypage_phases_01.png)
 
 ## 画面説明
-![応募履歴設定画面](https://e2info.github.io/hrdeli-docs/manual/img/mypage_phases_02.png)
+![応募履歴設定画面](https://e2info.github.io/hrdeli-docs/manual/img/mypage_phases_02.jpg)
 
 No. | 項目名 | 説明 | 
 ------------- | ------------- | ------------- |  
