@@ -9,7 +9,7 @@
 * [求人項目の設定](https://e2info.github.io/hrdeli-docs/manual/job_item.html)
 
 マイページ管理
-* [応募履歴設定]()
+* [応募履歴設定](https://e2info.github.io/hrdeli-docs/manual/mypage_phases.html)
 
 エントリー設定
 * [LPページの作成](https://e2info.github.io/hrdeli-docs/manual/lp.html)
