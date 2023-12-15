@@ -35,7 +35,7 @@
 過去のリリース情報は[こちら](https://e2info.github.io/hrdeli-docs/release-notes/archive)をご確認ください。<br>
 
 ## お問い合わせ
-操作などご質問ございましたら、以下サポートデスク宛てにメールお願いいたします。<br>
+操作などご質問ございましたら、以下サポートデスク宛にメールお願いいたします。<br>
 <a href="mailto:support_hrdeli@e2info.com">support_hrdeli@e2info.com</a>
 
 {% include footer.md %}
