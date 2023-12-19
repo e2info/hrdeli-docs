@@ -1,8 +1,9 @@
 # HR Deli ヘルプ
 
 ## HR Deli導入までの案内
-* [初期設定の対象範囲について](https://e2info.github.io/hrdeli-docs/introduction/initialization.html)
+* [初期設定の対象範囲について](https://e2info.github.io/hrdeli-docs/introduction/initialization)
 <!--* [独自ドメインの設定について](https://e2info.github.io/hrdeli-docs/manual/special_feature.html)-->
+* [オプション機能「求職者同期」について](https://e2info.github.io/hrdeli-docs/introduction/option_members_sync)
 
 ## 管理画面の操作ガイド
 求人設定
