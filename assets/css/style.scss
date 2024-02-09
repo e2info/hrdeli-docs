@@ -3,8 +3,21 @@
 
 @import "{{ site.theme }}";
 .page-header>.project-tagline {
-  display:none;
+  display: none;
 }
 .page-header>a.btn {
-  display:none;
+  display: none;
+}
+
+.main-content {
+  line-height: 1.8em;
+}
+
+.main-content h2 {
+  border-bottom: 2px solid;
+  padding: 0.3em;
+}
+
+.main-content table th {
+  background-color: #e9f5ef;
 }
