@@ -19,10 +19,11 @@ body {
   sans-serif;
 }
 
+// ------- main contents　-------
+
 .main-content{
   line-height: 1.8rem;
 }
-
 
 // 見出し
 .main-content h2 {
@@ -38,9 +39,13 @@ body {
 .flex-container {
   display: flex;
   flex-wrap: nowrap;
-  justify-content: space-between;
 }
 
 .flex-item {
   padding: 5px;
+}
+
+// ------- footer　-------
+.site-footer.flex-container {
+  align-items: center;
 }

@@ -7,7 +7,7 @@
 
 ## 管理画面の操作ガイド
 求人設定
-<p>[求人項目の設定](https://e2info.github.io/hrdeli-docs/manual/job_item)</p>
+* [求人項目の設定](https://e2info.github.io/hrdeli-docs/manual/job_item)
 
 マイページ管理
 * [応募履歴設定](https://e2info.github.io/hrdeli-docs/manual/mypage_phases)
