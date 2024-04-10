@@ -20,11 +20,18 @@ body {
   line-height: 1.8em;
 }
 
+// 見出し
 .main-content h2 {
   border-bottom: 2px solid;
   padding: 0.3em;
 }
-
+// テーブル　見出し
 .main-content table th {
   background-color: #e9f5ef;
+}
+
+//flexbox
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
 }
