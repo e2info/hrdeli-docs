@@ -1,6 +1,7 @@
 ---
 title: リリースノート 一覧
 ---
+* [2024/04/18【リリース予定】ブラウザの表示幅を狭めると画像の一部が隠れてしまう現象を修正します](https://e2info.github.io/hrdeli-docs/release-notes/20240418_00)
 * [2024/02/08【対応済み】アクティビティとキーワード検索の不具合について](hhttps://e2info.github.io/hrdeli-docs/release-notes/20240208_00)
 * [2023/12/19【事前お知らせ】システムメンテナンスと新機能のお知らせ](https://e2info.github.io/hrdeli-docs/release-notes/20231219_00)
 * [2023/11/28【機能更新】求職者が退会した際、管理者にメールが届く機能を追加します](https://e2info.github.io/hrdeli-docs/release-notes/20231128_02)
