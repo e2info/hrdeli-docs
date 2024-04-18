@@ -29,7 +29,7 @@
     * [PORTERS 連携エラーを解消したい](https://e2info.github.io/hrdeli-docs/manual/update_error#cancellation)-->
 
 ## クラウド版 リリースノート
-* [2024/04/18【リリース予定】ブラウザの表示幅を狭めると画像の一部が隠れてしまう現象を修正します](https://e2info.github.io/hrdeli-docs/release-notes/20240418_00)
+* [2024/04/18 【対応済み】モバイルでもTOP画像が全て表示されるようになりました　他2件](https://e2info.github.io/hrdeli-docs/release-notes/20240418_00)
 * [2024/02/08【対応済み】アクティビティとキーワード検索の不具合について](https://e2info.github.io/hrdeli-docs/release-notes/20240208_00)
 * [2023/12/19【事前お知らせ】システムメンテナンスと新機能のお知らせ](https://e2info.github.io/hrdeli-docs/release-notes/20231219_00)
 

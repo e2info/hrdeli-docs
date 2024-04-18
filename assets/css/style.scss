@@ -17,6 +17,7 @@ body {
   "BIZ UDPGothic",
   Meiryo,
   sans-serif;
+  letter-spacing: 0.02em;
 }
 
 // ------- main contents　-------
@@ -46,6 +47,6 @@ body {
 }
 
 // ------- footer　-------
-.site-footer.flex-container {
+.copyright {
   align-items: center;
 }
