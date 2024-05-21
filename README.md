@@ -29,9 +29,9 @@
     * [PORTERS 連携エラーを解消したい](https://e2info.github.io/hrdeli-docs/manual/update_error#cancellation)-->
 
 ## クラウド版 リリースノート
+* [2024/05/21 【対応済み】一部の端末で、ヘッダーのロゴ画像が不正となる不具合について](https://e2info.github.io/hrdeli-docs/release-notes/20240521_00)
+* [2024/05/17 【対応済み】管理画面で401/419エラーが発生した現象について](https://e2info.github.io/hrdeli-docs/release-notes/20240517_00)
 * [2024/04/18 【対応済み】モバイルでもTOP画像が全て表示されるようになりました　他2件](https://e2info.github.io/hrdeli-docs/release-notes/20240418_00)
-* [2024/02/08【対応済み】アクティビティとキーワード検索の不具合について](https://e2info.github.io/hrdeli-docs/release-notes/20240208_00)
-* [2023/12/19【事前お知らせ】システムメンテナンスと新機能のお知らせ](https://e2info.github.io/hrdeli-docs/release-notes/20231219_00)
 
 
 過去のリリース情報は[こちら](https://e2info.github.io/hrdeli-docs/release-notes/archive)をご確認ください。<br>
