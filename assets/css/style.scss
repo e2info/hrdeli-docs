@@ -2,12 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-.page-header>.project-tagline {
-  display: none;
-}
-.page-header>a.btn {
-  display: none;
-}
 
 body {
   font-family: "Helvetica Neue",
@@ -20,8 +14,16 @@ body {
   letter-spacing: 0.02em;
 }
 
-// ------- main contents　-------
+// ------- header ------- 
+// ボタン非表示
+.page-header>.project-tagline {
+  display: none;
+}
+.page-header>a.btn {
+  display: none;
+}
 
+// ------- main contents　-------
 .main-content{
   line-height: 1.8rem;
 }
@@ -31,6 +33,11 @@ body {
   border-bottom: 2px solid;
   padding: 0.3em;
 }
+
+.main-content li {
+  padding-bottom: 5px;
+}
+
 // テーブル　見出し
 .main-content table th {
   background-color: #e9f5ef;
