@@ -14,6 +14,11 @@ body {
   letter-spacing: 0.02em;
 }
 
+dd {
+  margin: 0;
+}
+
+
 // ------- header ------- 
 // ボタン非表示
 .page-header>.project-tagline {
@@ -35,12 +40,20 @@ body {
 }
 
 .main-content li {
-  padding-bottom: 5px;
+  padding-bottom: 0.2em;
 }
 
 // テーブル　見出し
 .main-content table th {
   background-color: #e9f5ef;
+}
+
+// TIPS
+.main-content .tips {
+  background-color: #e9f5ef;
+  margin: 1em;
+  padding: 0.8em 1em;
+  font-size: 1rem;
 }
 
 //flexbox
