@@ -1,7 +1,8 @@
 ---
 title: リリースノート・メンテナンス情報 一覧
 ---
-* [2024/06/20　システムメンテナンスのお知らせ](https://e2info.github.io/hrdeli-docs/release-notes/20240620_00)
+* [2024/06/14 【対応済み】一部のお客様で会員登録が行えない不具合について](https://e2info.github.io/hrdeli-docs/release-notes/20240614_00)
+* [2024/06/11　システムメンテナンスのお知らせ](https://e2info.github.io/hrdeli-docs/release-notes/20240611_00)
 * [2024/06/05 【対応済み】求人情報（Job Posting）の構造化データに関する不具合を修正しました](https://e2info.github.io/hrdeli-docs/release-notes/20240605_00)
 * [2024/05/30 【対応済み】求職者が退会する際、特定の条件で連携エラーとなる不具合を修正しました](https://e2info.github.io/hrdeli-docs/release-notes/20240530_00)
 * [2024/05/21 【対応済み】一部の端末で、ヘッダーのロゴ画像が不正となる不具合について](https://e2info.github.io/hrdeli-docs/release-notes/20240521_00)
