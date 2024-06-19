@@ -43,17 +43,38 @@ dd {
   padding-bottom: 0.2em;
 }
 
-// テーブル　見出し
+// テーブル
+.table_title {
+  color: #159957;
+}
+
 .main-content table th {
   background-color: #e9f5ef;
 }
 
+// 目次
+.index {
+  list-style: none;
+  padding: 0.8em 1em;
+  border-radius: 1em;
+  background-color: #eee;
+}
+
+.index p {
+  margin-bottom: 0.5em;
+}
+
 // TIPS
-.main-content .tips {
-  background-color: #e9f5ef;
+.tips {
   margin: 1em;
   padding: 0.8em 1em;
+  border-radius: 1em;
+  background-color: #e9f5ef;
   font-size: 1rem;
+}
+
+.tips dt {
+  margin-bottom: 0.5em;
 }
 
 //flexbox
