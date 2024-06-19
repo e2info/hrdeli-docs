@@ -11,12 +11,12 @@ title: おすすめ求人を追加・削除する
     <p>目次</p>
     <ul>
         <li>
-            <a href="https://e2info.github.io/hrdeli-docs/manual/mypage_recommend-job#create">
+            <a href="#create">
                 おすすめ求人を追加する
             </a>
         </li>
         <li>
-            <a href="https://e2info.github.io/hrdeli-docs/manual/mypage_recommend-job#delete">
+            <a href="#delete">
                 おすすめ求人を削除する
             </a>
         </li>
@@ -28,14 +28,16 @@ title: おすすめ求人を追加・削除する
 
 <h2 id="create"> おすすめ求人を追加する</h2>
 
-<dl class="tips">
-    <dt>おすすめ求人を設定する前に</dt>
-    <dd>
-        おすすめ求人は、PORTERSの選考プロセス(引当進捗)のフェーズで判断します。<br>
-        そのため、事前に「JOB打診」「担当者からのおすすめ」といった、おすすめ求人として表示させるフェーズをご用意いただく必要がございます。<br>
-        ※フェーズの追加・更新方法につきましては、<a href="https://hrbc-support.porters.jp/hc/ja/categories/202717078-%E8%A8%AD%E5%AE%9A-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB">PORTERSの設定・カスタマイズマニュアル</a>をご参照ください。
-    </dd>
-</dl>
+<div class="tips">
+    <dl>
+        <dt>おすすめ求人を設定する前に</dt>
+        <dd>
+            おすすめ求人は、PORTERSの選考プロセス(引当進捗)のフェーズで判断します。<br>
+            そのため、事前に「JOB打診」「担当者からのおすすめ」といった、おすすめ求人として表示させるフェーズをご用意いただく必要がございます。<br>
+            ※フェーズの追加・更新方法につきましては、<a href="https://hrbc-support.porters.jp/hc/ja/categories/202717078-%E8%A8%AD%E5%AE%9A-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB">PORTERSの設定・カスタマイズマニュアル</a>をご参照ください。
+        </dd>
+    </dl>
+</div>
 
 1．管理画面 > マイページ管理 > おすすめ求人設定 に遷移します。
 
@@ -55,7 +57,7 @@ No. | 項目名 | 説明 |
 6 | 興味がない | 求職者が「興味がない」を選択時、更新するフェーズを指定します。<br>未設定の場合、求職者画面では非表示となります。
 
 4． 「確認する」を押下し、確認画面に遷移します。<br>
-![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check-button_with_back-button.png)
+![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)
 
 5．入力内容に問題がないようでしたら、「登録する」を押下します。<br>
 ![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png.png)
@@ -74,7 +76,7 @@ No. | 項目名 | 説明 |
 
 
 9． 「確認する」を押下し、確認画面に遷移します。<br>
-![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check-button_with_back-button.png)
+![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)
 
 10．入力内容に問題がないようでしたら、「登録する」を押下します。<br>
 ![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png)
@@ -84,14 +86,15 @@ No. | 項目名 | 説明 |
 
 <h2 id="delete">おすすめ求人を削除する</h2>
 
-<dl class="tips">
-    <dt>おすすめ求人を削除する前に</dt>
-    <dd>
-        削除するおすすめ求人は、現在公開中のメニューに設定していないことをご確認ください。<br>
-        削除したおすすめ求人をメニューに設定したままの場合、該当メニューでエラーが発生し他のコンテンツが表示されなくなります。
-    </dd>
-</dl>
-
+<div class="tips">
+    <dl>
+        <dt>おすすめ求人を削除する前に</dt>
+        <dd>
+            削除するおすすめ求人は、現在公開中のメニューに設定していないことをご確認ください。<br>
+            削除したおすすめ求人をメニューに設定したままの場合、該当メニューでエラーが発生し他のコンテンツが表示されなくなります。
+        </dd>
+    </dl>
+</div>
 
 1．管理画面 > マイページ管理 > おすすめ求人設定 に遷移します。
 

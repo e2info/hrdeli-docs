@@ -43,25 +43,28 @@ No. | 項目名 | 説明 |
 4 | 表示種別 | ※マイページ機能をご利用中の方のみ表示されます。<br>［トップページ］［マイページ］どちらに表示するか指定します。
 
 4． 「確認する」を押下し、確認画面に遷移します。<br>
-<!-- ![お知らせ設定-確認するを押下](https://e2info.github.io/hrdeli-docs/manual/img/XXX) -->
+![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)
 
 5．入力内容に問題がないようでしたら、「登録する」を押下します。<br>
-<!-- ![お知らせ設定-登録するを押下](https://e2info.github.io/hrdeli-docs/manual/img/XXX) -->
+![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png)
 
 6．お知らせ設定 - 一覧画面に遷移し「お知らせ[タイトル]を登録しました」とメッセージが表示されます。<br>
-
 表示種別［TOPページ］の場合、この時点でTOPページのお知らせ欄に反映されます。
 <!-- 画像-->
 
-<dl class="tips">
-    <dt>TOPページにお知らせ欄自体が表示されない場合</dt>
-    <dd>
-        お知らせ欄を［非公開］にしている可能性があります。
-        コンテンツ管理 ＞ <a href="https://e2info.github.io/hrdeli-docs/manual/top_block">トップページブロック設定</a>より、お知らせが非公開になっていないかご確認お願いいたします。
-    </dd>
-</dl>
+<div class="tips">
+    <dl>
+        <dt>TOPページにお知らせ欄自体が表示されない場合</dt>
+        <dd>
+            お知らせ欄を［非公開］にしている可能性があります。
+            コンテンツ管理 ＞ <a href="https://e2info.github.io/hrdeli-docs/manual/top_block">トップページブロック設定</a>より、お知らせが非公開になっていないかご確認お願いいたします。
+        </dd>
+    </dl>
+</div>
 
 表示種別［マイページ］の場合、この時点ではどのマイページに表示するのかが決まっていないため、マイページ管理 > メニュー設定で対象ページを指定します。
+
+<h2 id="setting">追加したお知らせをマイページに表示する</h2>
 
 7．マイページ管理 > メニュー設定に遷移し、設定したいページの「編集」を押下します。<br>
 ※新しくメニューを追加する場合は[マイページ専用メニューの追加・削除する](https://e2info.github.io/hrdeli-docs/manual/mypage_menu)をご参照ください。
@@ -71,7 +74,7 @@ No. | 項目名 | 説明 |
 ![メニューにお知らせを設定](https://e2info.github.io/hrdeli-docs/manual/img/news_setting.png)
 
 9． 「確認する」を押下し、確認画面に遷移します。<br>
-![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check-button_with_back-button.png)
+![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)
 
 10．入力内容に問題がないようでしたら、「登録する」を押下します。<br>
 ![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png)

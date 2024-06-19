@@ -12,12 +12,12 @@ title: 登録情報の表示、編集を許可する（編集・表示項目設�
     <p>目次</p>
     <ul>
         <li>
-            <a href="https://e2info.github.io/hrdeli-docs/manual/mypage_field-setting#create">
+            <a href="#create">
                 編集・表示項目を追加する
             </a>
         </li>
         <li>
-            <a href="https://e2info.github.io/hrdeli-docs/manual/mypage_field-setting#delete">
+            <a href="#delete">
                 編集・表示項目を削除する
             </a>
         </li>
@@ -49,7 +49,6 @@ No. | 項目名 | 説明 |
 No. | 項目名 | 説明 | 
 ------------- | ------------- | ------------- |  
 3 | 項目追加 | 求職者に編集・表示させる項目を、一覧に追加します。<br>個人連絡先（Person）・レジュメ（Resume）の内、PORTERSで現在ご利用中の項目のみとなります。<br>詳細は<a href="https://e2info.github.io/hrdeli-docs/manual/mypage_field-setting#tips_item">［項目追加］に表示される項目について</a>をご参照ください
-なお、会員登録フォームに設定しているメールアドレスは、
 4 | 項目 | 「項目追加」から追加した項目の名称が表示されます。
 5 | 表示名 | 求職者画面で表示する項目の名称を入力します。
 6 | 入力例 | フロントの入力欄に表示する例文を入力します。<br>設定できるのは、テキスト1行型/テキスト複数行型/電話型/メール型の項目のみとなります。<br>※「ファイル添付」の項目を追加した場合、必須/任意を表示します。<br>※選択肢型の項目を追加した場合、求職者画面での表示形式（ラジオボタン/チェックボックス/ダイアログ）を展開します。
@@ -77,13 +76,14 @@ No. | 項目名 | 説明
 10 | アクティビティの件名 | PORTERS連携時の「件名（エイリアス：Activity.P_Title）」を入力します。
 
 4． 「確認する」を押下し、確認画面に遷移します。<br>
-![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check-button_with_back-button.png)
+![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)
 
 5．入力内容に問題がないようでしたら、「登録する」を押下します。<br>
-![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png.png)
+![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png)
 <br>
 
-![編集・表示項目設定-登録完了](https://e2info.github.io/hrdeli-docs/manual/img/mypage_mypage_field-setting_complete.png)
+6．編集・表示項目設定- 一覧画面に遷移し「編集・表示項目[タイトル]を登録しました」とメッセージが表示されます。<br>
+![編集・表示項目設定-登録完了](https://e2info.github.io/hrdeli-docs/manual/img/mypage_field-setting_complete.png)
 <br>
 この時点では作成した編集・表示項目を、どのマイページに表示するのかが決まっていないため、マイページ管理 > メニュー設定で対象ページを指定します。
 
@@ -92,7 +92,7 @@ No. | 項目名 | 説明
 ![メニューに編集・表示項目を設定](https://e2info.github.io/hrdeli-docs/manual/img/mypage_field-setting_setting.png)
 
 9． 「確認する」を押下し、確認画面に遷移します。<br>
-![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check-button_with_back-button.png)
+![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)
 
 10．入力内容に問題がないようでしたら、「登録する」を押下します。<br>
 ![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png)
@@ -102,14 +102,15 @@ No. | 項目名 | 説明
 
 <h2 id="delete">編集・表示項目を削除する</h2>
 
-<dl class="tips">
-    <dt>編集・表示項目を削除する前に</dt>
-    <dd>
-        削除する編集・表示項目は、現在公開中のメニューに設定していないことをご確認ください。<br>
-        削除した編集・表示項目をメニューに設定したままの場合、該当メニューでエラーが発生し他のコンテンツが表示されなくなります。
-    </dd>
-</dl>
-
+<div class="tips">
+    <dl class="tips">
+        <dt>編集・表示項目を削除する前に</dt>
+        <dd>
+            削除する編集・表示項目は、現在公開中のメニューに設定していないことをご確認ください。<br>
+            削除した編集・表示項目をメニューに設定したままの場合、該当メニューでエラーが発生し他のコンテンツが表示されなくなります。
+        </dd>
+    </dl>
+</div>
 
 1．管理画面 > マイページ管理 > 編集・表示項目設定 に遷移します。
 

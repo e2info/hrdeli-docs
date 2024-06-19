@@ -6,17 +6,6 @@ HR Deliでは、マイページ専用メニュー（1ページ）につき複数
 
 ![マイページ専用メニューでできること](https://e2info.github.io/hrdeli-docs/manual/img/mypage_menu_summary.png)
 
-<dl class="tips">
-    <dt>コンテンツについて</dt>
-    <dd>
-        ［おすすめ求人］［登録情報の編集・表示］は、メニューを追加する前に別画面でコンテンツを作成する必要があります。<br>作成方法は下記をご確認ください。<br>
-        <ul>
-            <li><a href="https://e2info.github.io/hrdeli-docs/manual/news">お知らせを追加する</a></li>
-            <li><a href="https://e2info.github.io/hrdeli-docs/manual/mypage_field-setting">登録情報の表示、編集を許可する（編集・表示項目設定）</a></li>
-        </ul>
-    </dd>
-</dl>
-
 本ページでは、マイページ管理 ＞ メニュー設定で行える［マイページ専用メニューの追加・削除］について記載いたします。
 <!-- ※マイページ専用メニューの内、パスワードの変更 / メールアドレスの変更 / 退会の手続き は対象外となります。-->
 
@@ -24,12 +13,12 @@ HR Deliでは、マイページ専用メニュー（1ページ）につき複数
     <p>目次</p>
     <ul>
         <li>
-            <a href="https://e2info.github.io/hrdeli-docs/manual/mypage_menu#create">
+            <a href="#create">
                 マイページ専用メニューを追加する
             </a>
         </li>
         <li>
-            <a href="https://e2info.github.io/hrdeli-docs/manual/mtpage_menu#delete">
+            <a href="#delete">
                 マイページ専用メニューを削除する
             </a>
         </li>
@@ -38,6 +27,27 @@ HR Deliでは、マイページ専用メニュー（1ページ）につき複数
 
 
 <h2 id="mypage_create">マイページ専用メニューを追加する</h2>
+
+<p id="contents">設定できるコンテンツの一覧</p>
+
+コンテンツ種別 | 説明 | 
+------------- | ------------- | 
+応募履歴 | 求職者の応募履歴の表示範囲や応募状況を表示します。<br>初期設定から内容を変更する場合、<a href="https://e2info.github.io/hrdeli-docs/manual/mypage_phases">応募履歴設定</a>をご参照ください。 | 
+お知らせ | マイページ用のお知らせを表示します。<br>お知らせを追加する場合、<a href="https://e2info.github.io/hrdeli-docs/manual/news">お知らせを追加する</a>をご参照ください。
+おすすめ求人 | 貴社から求職者におすすめしたい求人を表示します。<br>※コンテンツを設定する場合、事前におすすめ求人を追加する必要があります。<br>詳細は<a href="https://e2info.github.io/hrdeli-docs/manual/mtpage_menu">おすすめ求人を追加・削除する</a>をご参照ください。
+編集・表示項目 | 求職者にPORTERSに連携した求職者情報(個人連絡先/レジュメ)を表示します。また、登録情報を求職者に更新を許可することも可能です。<br>※コンテンツを設定する場合、事前に編集・表示項目を追加する必要があります。<br>詳細は<a href="https://e2info.github.io/hrdeli-docs/manual/mypage_field-setting">登録情報の表示、編集を許可する（編集・表示項目設定）</a>をご参照ください。
+HTML | 任意のHTMLを設定することができます。<br>
+
+
+<div class="tips">
+    <dl>
+        <dt>［おすすめ求人］［登録情報の編集・表示］について</dt>
+        <dd>
+            ［おすすめ求人］［登録情報の編集・表示］は、メニューを追加する前に別画面でコンテンツを作成する必要があります。
+        </dd>
+    </dl>
+</div>
+
 
 1．管理画面 > マイページ管理 > メニュー設定 に遷移します。
 
@@ -70,7 +80,7 @@ No. | 項目名 | 説明 |
         <td>3</td>
         <td>コンテンツ種別</td>
         <td>
-            表示するコンテンツを指定します。詳細は以下のコンテンツ種別をご参照ください。
+            表示するコンテンツを指定します。詳細は<a href="contents">設定できるコンテンツの一覧</a>をご参照ください。
         </td>
     </tr>
     <tr>
@@ -116,16 +126,6 @@ No. | 項目名 | 説明 |
     </tr>
 </table>
 
-<p id="contents">コンテンツ種別</p>
-
-コンテンツの種類 | 説明 | 
-------------- | ------------- | 
-応募履歴 | 求職者の応募履歴の表示範囲や応募状況を表示します。<br>初期設定から内容を変更する場合、<a href="https://e2info.github.io/hrdeli-docs/manual/mypage_phases">応募履歴設定</a>をご参照ください。 | 
-お知らせ | マイページ用のお知らせを表示します。<br>お知らせを追加する場合、<a href="https://e2info.github.io/hrdeli-docs/manual/news">お知らせを追加する</a>をご参照ください。 | メニューとして表示する選考プロセスフェーズを指定します。
-おすすめ求人 | 貴社から求職者におすすめしたい求人を表示します。<br>※コンテンツを設定する場合、事前におすすめ求人を追加する必要があります。<br>詳細は<a href="https://e2info.github.io/hrdeli-docs/manual/mtpage_menu">おすすめ求人を追加・削除する</a>をご参照ください。
-編集・表示項目 | 求職者にPORTERSに連携した求職者情報(個人連絡先/レジュメ)を表示します。また、登録情報を求職者に更新を許可することも可能です。<br>※コンテンツを設定する場合、事前に編集・表示項目を追加する必要があります。<br>詳細は<a href="https://e2info.github.io/hrdeli-docs/manual/mypage_field-setting">登録情報の表示、編集を許可する（編集・表示項目設定）</a>をご参照ください。
-HTML | 任意のHTMLを設定することができます。<br>
-
 <dl id="tips_item" class="tips">
     <dt>［本文のHTML］表示イメージについて</dt>
     <dd>
@@ -135,11 +135,10 @@ HTML | 任意のHTMLを設定することができます。<br>
 </dl>
 
 4． 「確認する」を押下し、確認画面に遷移します。<br>
-![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check-button_with_back-button.png)
+![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)
 
 5．入力内容に問題がないようでしたら、「登録する」を押下します。<br>
-![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png.png)
-<br>
+![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png)
 
 6．メニュー設定 - 一覧画面に遷移し「マイページメニュー[メニュー名]を登録しました」とメッセージが表示されます。<br>
 ![メニュー設定-登録完了](https://e2info.github.io/hrdeli-docs/manual/img/mypage_menu_complete.png)
