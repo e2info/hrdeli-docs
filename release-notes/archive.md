@@ -1,6 +1,7 @@
 ---
 title: リリースノート・メンテナンス情報 一覧
 ---
+* [2024/06/20 【新機能】マイページ1ページあたりに複数のコンテンツが設定できるようになりました　他1件](https://e2info.github.io/hrdeli-docs/release-notes/20240620_00)
 * [2024/06/14 【対応済み】一部のお客様で会員登録が行えない不具合について](https://e2info.github.io/hrdeli-docs/release-notes/20240614_00)
 * [2024/06/11　システムメンテナンスのお知らせ](https://e2info.github.io/hrdeli-docs/release-notes/20240611_00)
 * [2024/06/05 【対応済み】求人情報（Job Posting）の構造化データに関する不具合を修正しました](https://e2info.github.io/hrdeli-docs/release-notes/20240605_00)

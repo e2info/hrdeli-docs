@@ -26,7 +26,7 @@ HR Deliでは、マイページ専用メニュー（1ページ）につき複数
 </div>
 
 
-<h2 id="mypage_create">マイページ専用メニューを追加する</h2>
+<h2 id="create">マイページ専用メニューを追加する</h2>
 
 <p id="contents">設定できるコンテンツの一覧</p>
 
@@ -34,9 +34,9 @@ HR Deliでは、マイページ専用メニュー（1ページ）につき複数
 ------------- | ------------- | 
 応募履歴 | 求職者の応募履歴の表示範囲や応募状況を表示します。<br>初期設定から内容を変更する場合、<a href="https://e2info.github.io/hrdeli-docs/manual/mypage_phases">応募履歴設定</a>をご参照ください。 | 
 お知らせ | マイページ用のお知らせを表示します。<br>お知らせを追加する場合、<a href="https://e2info.github.io/hrdeli-docs/manual/news">お知らせを追加する</a>をご参照ください。
-おすすめ求人 | 貴社から求職者におすすめしたい求人を表示します。<br>※コンテンツを設定する場合、事前におすすめ求人を追加する必要があります。<br>詳細は<a href="https://e2info.github.io/hrdeli-docs/manual/mtpage_menu">おすすめ求人を追加・削除する</a>をご参照ください。
+おすすめ求人 | 貴社から求職者におすすめしたい求人を表示します。<br>※コンテンツを設定する場合、事前におすすめ求人を追加する必要があります。<br>詳細は<a href="https://e2info.github.io/hrdeli-docs/manual/mypage_recommend-job">おすすめ求人を追加・削除する</a>をご参照ください。
 編集・表示項目 | 求職者にPORTERSに連携した求職者情報(個人連絡先/レジュメ)を表示します。また、登録情報を求職者に更新を許可することも可能です。<br>※コンテンツを設定する場合、事前に編集・表示項目を追加する必要があります。<br>詳細は<a href="https://e2info.github.io/hrdeli-docs/manual/mypage_field-setting">登録情報の表示、編集を許可する（編集・表示項目設定）</a>をご参照ください。
-HTML | 任意のHTMLを設定することができます。<br>
+HTML | 任意のHTMLを設定することができます。
 
 
 <div class="tips">
@@ -55,7 +55,6 @@ HTML | 任意のHTMLを設定することができます。<br>
 <!-- ![メニュー設定-一覧画面](https://e2info.github.io/hrdeli-docs/manual/img/mtpage_menu-c_02.png) -->
 
 3．フォームに各項目を入力します。<br>
-<!-- ![メニュー設定-登録画面](https://e2info.github.io/hrdeli-docs/manual/img/XXX) -->
 
 <p class="table_title">メニューの設定</p>
 
@@ -138,7 +137,7 @@ No. | 項目名 | 説明 |
 ![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)
 
 5．入力内容に問題がないようでしたら、「登録する」を押下します。<br>
-![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png)
+![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/manual/img/common_push-registration-button_with_back-button.png)
 
 6．メニュー設定 - 一覧画面に遷移し「マイページメニュー[メニュー名]を登録しました」とメッセージが表示されます。<br>
 ![メニュー設定-登録完了](https://e2info.github.io/hrdeli-docs/manual/img/mypage_menu_complete.png)

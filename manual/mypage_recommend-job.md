@@ -60,7 +60,7 @@ No. | 項目名 | 説明 |
 ![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)
 
 5．入力内容に問題がないようでしたら、「登録する」を押下します。<br>
-![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png.png)
+![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png)
 
 6．おすすめ求人設定 - 一覧画面に遷移し「おすすめ求人[タイトル]を登録しました」とメッセージが表示されます。<br>
 ![おすすめ求人設定-登録完了](https://e2info.github.io/hrdeli-docs/manual/img/mypage_recommend-job_complete.png)
