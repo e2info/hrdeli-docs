@@ -1,15 +1,19 @@
 # HR Deli ヘルプ
 
-## HR Deli導入までの案内
-<!--* [独自ドメインの設定について](https://e2info.github.io/hrdeli-docs/manual/special_feature)-->
-* [オプション機能「求職者同期」について](https://e2info.github.io/hrdeli-docs/introduction/option_members_sync)
+## オプション機能
+* [「求職者同期」について](https://e2info.github.io/hrdeli-docs/introduction/option_members_sync)
 
 ## 管理画面の操作ガイド
+* [お知らせを追加する](https://e2info.github.io/hrdeli-docs/manual/news)
+
 求人設定
-* [求人項目の設定](https://e2info.github.io/hrdeli-docs/manual/job_item)
+* [求人情報の項目や検索条件を追加・変更する（表示項目の設定）](https://e2info.github.io/hrdeli-docs/manual/job_item)
 
 マイページ管理
+* [マイページ専用メニューの追加・削除する](https://e2info.github.io/hrdeli-docs/manual/mypage_menu)
 * [応募履歴設定](https://e2info.github.io/hrdeli-docs/manual/mypage_phases)
+* [登録情報の表示、編集を許可する（編集・表示項目設定）](https://e2info.github.io/hrdeli-docs/manual/mypage_field-setting)
+* [おすすめ求人の追加・削除する](https://e2info.github.io/hrdeli-docs/manual/mypage_recommend-job)
 
 エントリー設定
 * [LPページの作成](https://e2info.github.io/hrdeli-docs/manual/lp)
