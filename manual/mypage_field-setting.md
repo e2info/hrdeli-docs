@@ -4,7 +4,8 @@ title: 登録情報の表示、編集を許可する（編集・表示項目設�
 ## 概要
 求職者にPORTERSに連携した求職者情報(個人連絡先/レジュメ)をマイページ上に表示あるいは編集する場合、編集・表示項目設定にから行います。
 
-<!--![編集・表示項目の表示イメージ](https://e2info.github.io/hrdeli-docs/manual/img/XXX)-->
+例：PORTERSのレジュメで管理している受講コースを表示<br>
+![編集・表示項目の表示イメージ](img/mypage_field-setting_img.png)
 
 本ページでは編集・表示項目の追加～メニューに表示するまでを記載いたします。<br>
 
@@ -29,7 +30,7 @@ title: 登録情報の表示、編集を許可する（編集・表示項目設�
 1．管理画面 > マイページ管理 > 編集・表示項目設定 に遷移します。
 
 2．「新規登録」を押下します。<br>
-![編集・表示項目設定-一覧画面](https://e2info.github.io/hrdeli-docs/manual/img/mypage_field-setting-c_02.png)
+![編集・表示項目設定-一覧画面](https://e2info.github.io/hrdeli-docs/manual/img/mypage_field-setting_list.png)
 
 3．フォームに各項目を入力します。<br>
 

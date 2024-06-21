@@ -3,7 +3,7 @@ title: おすすめ求人を追加・削除する
 ---
 ## 概要
 おすすめ求人を設定することで、貴社から求職者におすすめしたい求人を表示できるようになります。<br>
-![おすすめ求人の表示イメージ](https://e2info.github.io/hrdeli-docs/manual/img/mypage_recommend-jobs_img.png) 
+![おすすめ求人の表示イメージ](img/mypage_recommend-jobs_img.png) 
 
 本ページでは、おすすめ求人設定を使用しておすすめ求人を追加～メニューに表示するまでを記載いたします。
 
@@ -43,9 +43,8 @@ title: おすすめ求人を追加・削除する
     <dl>
         <dt>2．表示項目を設定する</dt>
         <dd>
-            おすすめ求人として表示する求人の項目は、表示項目設定にて別途設定する必要があります。<br>
-            未設定の場合、おすすめ求人が表示されません<br>
-            ※フェーズの追加・更新方法につきましては、<a href="https://hrbc-support.porters.jp/hc/ja/categories/202717078-%E8%A8%AD%E5%AE%9A-%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB">PORTERSの設定・カスタマイズマニュアル</a>をご参照ください。
+            おすすめ求人として表示する求人の項目は、<a href="https://e2info.github.io/hrdeli-docs/manual/job_item">求人項目の設定</a>にて別途設定する必要があります。<br>
+            未設定の場合、おすすめ求人が表示されません
         </dd>
     </dl>
 
