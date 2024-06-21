@@ -79,7 +79,7 @@ No. | 項目名 | 説明 |
         <td>3</td>
         <td>コンテンツ種別</td>
         <td>
-            表示するコンテンツを指定します。詳細は<a href="contents">設定できるコンテンツの一覧</a>をご参照ください。
+            表示するコンテンツを指定します。詳細は<a href="#contents">設定できるコンテンツの一覧</a>をご参照ください。
         </td>
     </tr>
     <tr>
@@ -125,22 +125,31 @@ No. | 項目名 | 説明 |
     </tr>
 </table>
 
-<dl id="tips_item" class="tips">
-    <dt>［本文のHTML］表示イメージについて</dt>
-    <dd>
-        設定した内容に対する画面イメージは、登録時点では確認することができません。<br>
-        大変お手数ですが、一度公開設定を「非公開」で登録していただいた後、一覧画面のプレビューボタンから画面イメージをご確認ください。
-    </dd>
-</dl>
+<div class="tips">
+    <dl id="tips_item">
+        <dt>［本文のHTML］表示イメージについて</dt>
+        <dd>
+            設定した内容に対する画面イメージは、登録時点では確認することができません。<br>
+            大変お手数ですが、一度公開設定を「非公開」で登録していただいた後、一覧画面のプレビューボタンから画面イメージをご確認ください。
+        </dd>
+    </dl>
+</div>
 
 4． 「確認する」を押下し、確認画面に遷移します。<br>
-![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)
+![「確認する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-check_with_back-button.png)<br>
 
 5．入力内容に問題がないようでしたら、「登録する」を押下します。<br>
-![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png)
+![「登録する」ボタンを押す](https://e2info.github.io/hrdeli-docs/manual/img/common_push-registration-button_with_back-button.png)<br>
 
 6．メニュー設定 - 一覧画面に遷移し「マイページメニュー[メニュー名]を登録しました」とメッセージが表示されます。<br>
-![メニュー設定-登録完了](https://e2info.github.io/hrdeli-docs/manual/img/mypage_menu_complete.png)
+![メニュー設定-登録完了](https://e2info.github.io/hrdeli-docs/manual/img/mypage_menu_complete.png)<br>
+
+
+### 並び順を変更したい場合
+並び順を変更したい行のソートボタンをドラッグしてください。<br>
+並び順が変更されるとページの上部に［ソート順確定］が表示されます。<br>
+［ソート順確定］を押下することで並び順の変更が確定されます。<br>
+![［ソート順確定］を押下](https://e2info.github.io/hrdeli-docs/manual/img/mypage_menu_sort.png)<br>
 
 
 <h2 id="delete">メニューを削除する</h2>

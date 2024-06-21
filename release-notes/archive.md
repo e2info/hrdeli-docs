@@ -1,6 +1,8 @@
 ---
 title: リリースノート・メンテナンス情報 一覧
 ---
+* [2024/06/21 【不具合】モバイルのマイページメニューの表示不具合について](https://e2info.github.io/hrdeli-docs/release-notes/20240620_02)
+* [2024/06/20 【対応済み】おすすめ求人で指定した選考プロセスがマイページに表示されない](https://e2info.github.io/hrdeli-docs/release-notes/20240620_01)
 * [2024/06/20 【新機能】マイページ1ページあたりに複数のコンテンツが設定できるようになりました　他1件](https://e2info.github.io/hrdeli-docs/release-notes/20240620_00)
 * [2024/06/14 【対応済み】一部のお客様で会員登録が行えない不具合について](https://e2info.github.io/hrdeli-docs/release-notes/20240614_00)
 * [2024/06/11　システムメンテナンスのお知らせ](https://e2info.github.io/hrdeli-docs/release-notes/20240611_00)
